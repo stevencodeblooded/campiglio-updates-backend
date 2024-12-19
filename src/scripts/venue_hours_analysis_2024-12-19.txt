@@ -1,0 +1,2529 @@
+Venue Opening Hours Analysis
+===========================
+
+Total Venues: 285
+24/7 Venues: 46
+Venues with Opening Hours: 197
+
+Detailed Venue Information
+-------------------------
+
+1. HOTEL ALPINA
+   24/7: Yes
+   Opening Hours:
+      Monday: 07:30 - 23:00
+      Tuesday: 07:30 - 23:00
+      Wednesday: 07:30 - 23:00
+      Thursday: 07:30 - 23:00
+      Friday: 07:30 - 23:00
+      Saturday: 07:30 - 23:00
+      Sunday: 07:30 - 23:00
+
+2. Chalet Campiglio Imperiale GARNI
+   24/7: Yes
+   Opening Hours:
+      Monday: 07:30 - 22:30
+      Tuesday: 07:00 - 22:30
+      Wednesday: 07:30 - 22:30
+      Thursday: 07:30 - 22:30
+      Friday: 07:30 - 22:30
+      Saturday: 07:30 - 22:30
+      Sunday: 07:30 - 22:30
+
+3. Hotel Cristiania Madonna di Campiglio
+   24/7: Yes
+   Opening Hours:
+      Monday: 08:00 - 22:00
+      Tuesday: 08:00 - 22:00
+      Wednesday: 08:00 - 22:00
+      Thursday: 08:00 - 22:00
+      Friday: 08:00 - 22:00
+      Saturday: 08:00 - 22:00
+      Sunday: 08:00 - 22:00
+
+4. Panorama Hotel Fontanella
+   24/7: Yes
+   Opening Hours:
+      Monday: 07:30 - 00:00
+      Tuesday: 07:30 - 00:00
+      Wednesday: 07:30 - 00:00
+      Thursday: 07:30 - 00:00
+      Friday: 07:30 - 00:00
+      Saturday: 07:30 - 00:00
+      Sunday: 07:30 - 00:00
+
+5. Hotel Campiglio Bellavista
+   24/7: Yes
+   Opening Hours: Not specified
+
+6. Rifugio Nambrone
+   24/7: No
+   Opening Hours:
+      Monday: 10:50 - 10:51
+      Tuesday: Not specified
+      Wednesday: Not specified
+      Thursday: Not specified
+      Friday: Not specified
+      Saturday: Not specified
+      Sunday: Not specified
+
+7. Ristorante Malga Cioca
+   24/7: No
+   Opening Hours:
+      Monday: 09:00 - 17:00
+      Tuesday: 09:00 - 17:00
+      Wednesday: 09:00 - 17:00
+      Thursday: 09:00 - 17:00
+      Friday: 09:00 - 17:00
+      Saturday: 09:00 - 17:00
+      Sunday: 09:00 - 17:00
+
+8. Ballardini Gourmet Market Enoteca Wineshop
+   24/7: No
+   Opening Hours:
+      Monday: 08:30 - 13:00
+      Tuesday: 09:00 - 13:00
+      Wednesday: 09:00 - 13:00
+      Thursday: 08:30 - 13:00
+      Friday: 08:30 - 13:00
+      Saturday: 08:30 - 13:00
+      Sunday: 08:30 - 13:00
+
+9. Home Stube
+   24/7: No
+   Opening Hours:
+      Monday: 12:00 - 14:30
+      Tuesday: 12:00 - 14:30
+      Wednesday: 12:00 - 14:30
+      Thursday: 12:00 - 14:30
+      Friday: 12:00 - 14:30
+      Saturday: 12:00 - 14:30
+      Sunday: 12:00 - 14:30
+
+10. Rifugio Orti 1900
+   24/7: No
+   Opening Hours: Not specified
+
+11. Rifugio Malghet Aut Apreski
+   24/7: No
+   Opening Hours: Not specified
+
+12. Rifugio Ristorante Bar Prà Rodont
+   24/7: No
+   Opening Hours:
+      Monday: 08:30 - 16:30
+      Tuesday: 08:30 - 16:30
+      Wednesday: 08:30 - 16:30
+      Thursday: 08:30 - 16:30
+      Friday: 08:30 - 16:30
+      Saturday: 08:30 - 16:30
+      Sunday: 08:30 - 16:30
+
+13. La Buca - Ristorante Bar Pizzeria - Folgarida
+   24/7: No
+   Opening Hours:
+      Monday: 12:00 - 23:30
+      Tuesday: 12:00 - 23:30
+      Wednesday: 12:00 - 23:30
+      Thursday: 12:00 - 23:30
+      Friday: 12:00 - 23:30
+      Saturday: 12:00 - 23:30
+      Sunday: 12:00 - 23:30
+
+14. Des Alpes
+   24/7: Yes
+   Opening Hours: Not specified
+
+15. Piano 54
+   24/7: No
+   Opening Hours:
+      Monday: Not specified
+      Tuesday: Not specified
+      Wednesday: Not specified
+      Thursday: 22:30 - 04:00
+      Friday: Not specified
+      Saturday: Not specified
+      Sunday: 22:30 - 04:00
+
+16. Pub Dolomiti
+   24/7: Yes
+   Opening Hours:
+      Monday: 10:00 - 01:00
+      Tuesday: 10:00 - 01:00
+      Wednesday: 10:00 - 01:00
+      Thursday: Not specified
+      Friday: 10:00 - 01:00
+      Saturday: 10:00 - 01:00
+      Sunday: 10:00 - 01:00
+
+17. Cafe D'or
+   24/7: No
+   Opening Hours:
+      Monday: 16:00 - 02:00
+      Tuesday: 16:00 - 02:00
+      Wednesday: 16:00 - 02:00
+      Thursday: 16:00 - 02:00
+      Friday: 16:00 - 02:00
+      Saturday: 16:00 - 02:00
+      Sunday: 16:00 - 02:00
+
+18. Bar L'azzurro Birra & Bistrot
+   24/7: No
+   Opening Hours:
+      Monday: 06:00 - 23:00
+      Tuesday: 06:00 - 23:00
+      Wednesday: 06:00 - 23:00
+      Thursday: 06:00 - 23:00
+      Friday: 06:00 - 23:00
+      Saturday: 06:00 - 23:00
+      Sunday: 06:00 - 23:00
+
+19. Sparkling Lounge Campiglio
+   24/7: No
+   Opening Hours:
+      Monday: 08:00 - 00:00
+      Tuesday: 08:00 - 00:00
+      Wednesday: 08:00 - 00:00
+      Thursday: 08:00 - 00:00
+      Friday: 08:00 - 00:00
+      Saturday: 08:00 - 00:00
+      Sunday: 08:00 - 00:00
+
+20. Caffè & Bistrò Sissi
+   24/7: No
+   Opening Hours:
+      Monday: 08:00 - 23:30
+      Tuesday: 08:00 - 23:30
+      Wednesday: 08:00 - 23:30
+      Thursday: 08:00 - 23:30
+      Friday: 08:00 - 23:30
+      Saturday: 08:00 - 23:30
+      Sunday: 08:00 - 23:30
+
+21. Shane at Bar Maturi
+   24/7: No
+   Opening Hours:
+      Monday: 00:00 - 01:00
+      Tuesday: 00:00 - 01:00
+      Wednesday: 00:00 - 01:00
+      Thursday: 00:00 - 01:00
+      Friday: 00:00 - 01:00
+      Saturday: 00:00 - 01:00
+      Sunday: 00:00 - 01:00
+
+22. Champagneria
+   24/7: No
+   Opening Hours:
+      Monday: 10:00 - 00:00
+      Tuesday: 10:00 - 00:00
+      Wednesday: 10:00 - 00:00
+      Thursday: 10:00 - 00:00
+      Friday: 10:00 - 00:00
+      Saturday: 10:00 - 00:00
+      Sunday: 10:00 - 00:00
+
+23. Bar Chalet Laghetto
+   24/7: No
+   Opening Hours:
+      Monday: 08:00 - 22:00
+      Tuesday: 08:00 - 22:00
+      Wednesday: 08:00 - 22:00
+      Thursday: 08:00 - 22:00
+      Friday: 08:00 - 22:00
+      Saturday: 08:00 - 22:00
+      Sunday: 08:00 - 22:00
+
+24. Enoteca 54
+   24/7: No
+   Opening Hours: Not specified
+
+25. Arnica Cafè Bar
+   24/7: No
+   Opening Hours: Not specified
+
+26. LAB Après-ski
+   24/7: No
+   Opening Hours:
+      Monday: 15:00 - 20:00
+      Tuesday: 15:00 - 20:00
+      Wednesday: 15:00 - 20:00
+      Thursday: 15:00 - 20:00
+      Friday: 15:00 - 20:00
+      Saturday: 15:00 - 20:00
+      Sunday: 15:00 - 21:00
+
+27. Bistrot Coruja Madonna di Campiglio
+   24/7: No
+   Opening Hours:
+      Monday: 08:00 - 22:00
+      Tuesday: 08:00 - 22:00
+      Wednesday: 08:00 - 22:00
+      Thursday: 08:00 - 22:00
+      Friday: 08:00 - 22:00
+      Saturday: 08:00 - 22:00
+      Sunday: 08:00 - 22:00
+
+28. Caffè Alpi 1963
+   24/7: No
+   Opening Hours:
+      Monday: 08:00 - 22:00
+      Tuesday: 08:00 - 22:00
+      Wednesday: 08:00 - 22:00
+      Thursday: 08:00 - 22:00
+      Friday: 08:00 - 22:00
+      Saturday: 08:00 - 22:00
+      Sunday: 08:00 - 22:00
+
+29. Bar Fortini
+   24/7: No
+   Opening Hours: Not specified
+
+30. Nabucco Ferrari Spazio Bollicine
+   24/7: No
+   Opening Hours:
+      Monday: 17:00 - 00:00
+      Tuesday: 17:00 - 00:00
+      Wednesday: 17:00 - 00:00
+      Thursday: 17:00 - 00:00
+      Friday: 17:00 - 00:00
+      Saturday: 17:00 - 00:00
+      Sunday: 17:00 - 00:00
+
+31. Ristorante Le Roi
+   24/7: No
+   Opening Hours:
+      Monday: 11:30 - 15:00
+      Tuesday: 11:30 - 14:30
+      Wednesday: 11:30 - 14:00
+      Thursday: 11:30 - 14:00
+      Friday: 11:30 - 14:00
+      Saturday: 11:30 - 14:00
+      Sunday: 11:30 - 15:00
+
+32. Bar Pizzeria Lume 17
+   24/7: No
+   Opening Hours:
+      Monday: 11:30 - 22:30
+      Tuesday: 11:30 - 22:30
+      Wednesday: 11:30 - 22:30
+      Thursday: 11:30 - 22:30
+      Friday: 11:30 - 22:30
+      Saturday: 11:30 - 22:30
+      Sunday: 11:30 - 22:30
+
+33. Giocchi's
+   24/7: No
+   Opening Hours:
+      Monday: 08:00 - 20:00
+      Tuesday: 08:00 - 20:00
+      Wednesday: 08:00 - 20:00
+      Thursday: 08:00 - 20:00
+      Friday: 08:00 - 20:00
+      Saturday: 08:00 - 20:00
+      Sunday: 08:00 - 20:00
+
+34. Bar Suisse
+   24/7: No
+   Opening Hours: Not specified
+
+35. OBER 1
+   24/7: No
+   Opening Hours: Not specified
+
+36. Doppio Malto Campiglio
+   24/7: No
+   Opening Hours:
+      Monday: 12:00 - 15:00
+      Tuesday: 12:00 - 15:00
+      Wednesday: 12:00 - 14:00
+      Thursday: 12:00 - 15:00
+      Friday: 12:00 - 15:00
+      Saturday: 12:00 - 15:00
+      Sunday: 12:00 - 15:00
+
+37. Cantina del Suisse
+   24/7: No
+   Opening Hours:
+      Monday: 19:15 - 22:00
+      Tuesday: 19:00 - 22:00
+      Wednesday: 19:15 - 22:00
+      Thursday: 19:15 - 22:00
+      Friday: 19:15 - 22:00
+      Saturday: 19:15 - 22:00
+      Sunday: 19:15 - 22:00
+
+38. Winestube Crozzon
+   24/7: No
+   Opening Hours:
+      Monday: 19:30 - 21:00
+      Tuesday: 19:30 - 21:00
+      Wednesday: 19:30 - 21:00
+      Thursday: 19:30 - 21:00
+      Friday: 19:30 - 21:00
+      Saturday: 19:30 - 21:00
+      Sunday: 19:30 - 21:00
+
+39. La Veranda sul Brenta
+   24/7: No
+   Opening Hours:
+      Monday: 12:00 - 15:00
+      Tuesday: 12:00 - 15:00
+      Wednesday: 12:00 - 15:00
+      Thursday: 12:00 - 15:00
+      Friday: 12:00 - 15:00
+      Saturday: 12:00 - 15:00
+      Sunday: 12:00 - 15:00
+
+40. il Rustico Ballardini
+   24/7: No
+   Opening Hours:
+      Monday: 09:30 - 13:00
+      Tuesday: 09:30 - 13:00
+      Wednesday: 09:30 - 13:00
+      Thursday: 09:30 - 13:00
+      Friday: 09:30 - 13:00
+      Saturday: 09:30 - 13:00
+      Sunday: 09:30 - 13:00
+
+41. La Tana_Mdc
+   24/7: No
+   Opening Hours:
+      Monday: 12:00 - 15:00
+      Tuesday: 12:00 - 15:00
+      Wednesday: 12:00 - 15:00
+      Thursday: 12:00 - 15:00
+      Friday: 12:00 - 15:00
+      Saturday: 12:00 - 15:00
+      Sunday: 12:00 - 15:00
+
+42. Cafe Campiglio
+   24/7: No
+   Opening Hours:
+      Monday: 10:30 - 21:00
+      Tuesday: 10:30 - 21:00
+      Wednesday: 10:30 - 21:00
+      Thursday: 10:30 - 21:00
+      Friday: 10:30 - 21:00
+      Saturday: 10:30 - 22:00
+      Sunday: 10:30 - 22:00
+
+43. Sporting Club
+   24/7: No
+   Opening Hours: Not specified
+
+44. Tennis Club Madonna Di Campiglio
+   24/7: No
+   Opening Hours:
+      Monday: 09:00 - 19:00
+      Tuesday: 09:00 - 19:00
+      Wednesday: 09:00 - 19:00
+      Thursday: 09:00 - 19:00
+      Friday: 09:00 - 19:00
+      Saturday: 09:00 - 19:00
+      Sunday: 09:00 - 19:00
+
+45. Golf Club Campo Carlo Magno
+   24/7: No
+   Opening Hours: Not specified
+
+46. Bio Hotel Hermitage
+   24/7: Yes
+   Opening Hours:
+      Monday: 00:00 - N/A
+      Tuesday: Not specified
+      Wednesday: Not specified
+      Thursday: Not specified
+      Friday: Not specified
+      Saturday: Not specified
+      Sunday: Not specified
+
+47. Hotel Cristal Palace
+   24/7: Yes
+   Opening Hours:
+      Monday: 00:00 - N/A
+      Tuesday: Not specified
+      Wednesday: Not specified
+      Thursday: Not specified
+      Friday: Not specified
+      Saturday: Not specified
+      Sunday: Not specified
+
+48. Hotel Casa del Campo
+   24/7: Yes
+   Opening Hours: Not specified
+
+49. Alpen Hotel Vidi - Mountainbike, Freeride, Snowboard,
+   24/7: Yes
+   Opening Hours:
+      Monday: 00:00 - N/A
+      Tuesday: Not specified
+      Wednesday: Not specified
+      Thursday: Not specified
+      Friday: Not specified
+      Saturday: Not specified
+      Sunday: Not specified
+
+50. Hotel Crozzon
+   24/7: Yes
+   Opening Hours:
+      Monday: 00:00 - N/A
+      Tuesday: Not specified
+      Wednesday: Not specified
+      Thursday: Not specified
+      Friday: Not specified
+      Saturday: Not specified
+      Sunday: Not specified
+
+51. AlpHotel Taller
+   24/7: Yes
+   Opening Hours:
+      Monday: 06:30 - 00:00
+      Tuesday: 06:30 - 00:00
+      Wednesday: 06:30 - 00:00
+      Thursday: 06:30 - 00:00
+      Friday: 06:30 - 00:00
+      Saturday: 06:30 - 00:00
+      Sunday: 06:30 - 00:00
+
+52. Residence Ambiez
+   24/7: Yes
+   Opening Hours:
+      Monday: 07:30 - 23:00
+      Tuesday: 07:30 - 23:00
+      Wednesday: 07:30 - 23:00
+      Thursday: 07:30 - 23:00
+      Friday: 07:30 - 23:00
+      Saturday: 07:30 - 23:00
+      Sunday: 07:30 - 23:00
+
+53. Hotel Chalet del Sogno
+   24/7: Yes
+   Opening Hours:
+      Monday: 00:00 - N/A
+      Tuesday: Not specified
+      Wednesday: Not specified
+      Thursday: Not specified
+      Friday: Not specified
+      Saturday: Not specified
+      Sunday: Not specified
+
+54. Spinale Hotel
+   24/7: Yes
+   Opening Hours:
+      Monday: 00:00 - N/A
+      Tuesday: Not specified
+      Wednesday: Not specified
+      Thursday: Not specified
+      Friday: Not specified
+      Saturday: Not specified
+      Sunday: Not specified
+
+55. Hotel Lorenzetti - Madonna di Campiglio
+   24/7: Yes
+   Opening Hours:
+      Monday: 00:00 - N/A
+      Tuesday: Not specified
+      Wednesday: Not specified
+      Thursday: Not specified
+      Friday: Not specified
+      Saturday: Not specified
+      Sunday: Not specified
+
+56. Savoia Palace Hotel
+   24/7: Yes
+   Opening Hours:
+      Monday: 07:00 - 00:00
+      Tuesday: 07:00 - 00:00
+      Wednesday: 07:00 - 00:00
+      Thursday: 07:00 - 00:00
+      Friday: 07:00 - 00:00
+      Saturday: 07:00 - 00:00
+      Sunday: 07:00 - 00:00
+
+57. SAN CARLO CAFE 'ICE CREAM PASTRY
+   24/7: No
+   Opening Hours:
+      Monday: 08:00 - 18:00
+      Tuesday: 08:00 - 19:30
+      Wednesday: 08:00 - 19:30
+      Thursday: 08:00 - 19:30
+      Friday: 08:00 - 19:30
+      Saturday: 08:00 - 19:30
+      Sunday: 08:00 - 19:30
+
+58. Baita Brenta Alta
+   24/7: Yes
+   Opening Hours: Not specified
+
+59. Carpe Diem
+   24/7: No
+   Opening Hours:
+      Monday: 06:00 - 23:00
+      Tuesday: 06:00 - 23:00
+      Wednesday: 06:00 - 23:00
+      Thursday: 06:00 - 23:00
+      Friday: 06:00 - 23:00
+      Saturday: 06:00 - 23:00
+      Sunday: 06:00 - 23:00
+
+60. Osteria Bagat
+   24/7: No
+   Opening Hours:
+      Monday: 11:30 - 14:30
+      Tuesday: 11:30 - 14:30
+      Wednesday: 11:30 - 14:30
+      Thursday: 11:30 - 14:30
+      Friday: 11:30 - 14:30
+      Saturday: 11:30 - 14:30
+      Sunday: 11:30 - 14:30
+
+61. Ristorante Antico Focolare
+   24/7: No
+   Opening Hours:
+      Monday: 12:00 - 15:00
+      Tuesday: 12:00 - 15:00
+      Wednesday: 12:00 - 15:00
+      Thursday: 12:00 - 15:00
+      Friday: 12:00 - 15:00
+      Saturday: 12:00 - 15:00
+      Sunday: 12:00 - 15:00
+
+62. Ristorante Il Gallo Cedrone
+   24/7: No
+   Opening Hours:
+      Monday: 17:00 - 00:00
+      Tuesday: Not specified
+      Wednesday: 17:00 - 00:00
+      Thursday: 17:00 - 00:00
+      Friday: 17:00 - 00:00
+      Saturday: 17:00 - 00:00
+      Sunday: 17:00 - 00:00
+
+63. Patascoss Rifugio
+   24/7: No
+   Opening Hours:
+      Monday: 08:30 - 17:00
+      Tuesday: 08:30 - 17:00
+      Wednesday: 08:30 - 17:00
+      Thursday: 08:30 - 17:00
+      Friday: 08:30 - 17:00
+      Saturday: 08:30 - 17:00
+      Sunday: 08:30 - 17:00
+
+64. Rifugio Malga Ritorto
+   24/7: No
+   Opening Hours:
+      Monday: 09:00 - 17:00
+      Tuesday: 09:00 - 17:00
+      Wednesday: 09:00 - 22:00
+      Thursday: 09:00 - 17:00
+      Friday: 09:00 - 17:00
+      Saturday: 09:00 - 22:00
+      Sunday: 09:00 - 22:00
+
+65. Ristorante Due Pini
+   24/7: No
+   Opening Hours:
+      Monday: 19:15 - 22:00
+      Tuesday: 19:15 - 22:00
+      Wednesday: 19:15 - 22:00
+      Thursday: Not specified
+      Friday: 19:15 - 22:00
+      Saturday: 19:15 - 22:00
+      Sunday: 19:15 - 22:00
+
+66. Ristorante Pizzeria al Pappagallo
+   24/7: No
+   Opening Hours: Not specified
+
+67. Ristorante Piccadilly - Pizza e Cucina di montagna a Madonna di Campiglio
+   24/7: No
+   Opening Hours:
+      Monday: 12:00 - 14:30
+      Tuesday: 12:00 - 14:30
+      Wednesday: 12:00 - 14:30
+      Thursday: 12:00 - 14:30
+      Friday: 12:00 - 14:30
+      Saturday: 12:00 - 14:30
+      Sunday: 12:00 - 14:30
+
+68. Ristorante Malga Montagnoli
+   24/7: No
+   Opening Hours:
+      Monday: 09:00 - 16:20
+      Tuesday: 09:00 - 16:20
+      Wednesday: 09:00 - 16:20
+      Thursday: 09:00 - 16:20
+      Friday: 09:00 - 16:20
+      Saturday: 09:00 - 16:20
+      Sunday: 09:00 - 16:20
+
+69. Baita Natalia
+   24/7: No
+   Opening Hours: Not specified
+
+70. Agriturismo Chalet Fogajard
+   24/7: No
+   Opening Hours:
+      Monday: 12:30 - 14:30
+      Tuesday: 12:30 - 14:30
+      Wednesday: 12:30 - 14:30
+      Thursday: 12:30 - 14:30
+      Friday: 12:30 - 14:30
+      Saturday: 12:30 - 14:30
+      Sunday: 12:30 - 14:30
+
+71. Rifugio Viviani Pradalago
+   24/7: No
+   Opening Hours: Not specified
+
+72. Hotel Genzianella
+   24/7: No
+   Opening Hours: Not specified
+
+73. Ristorante al Fratè - da Streza
+   24/7: No
+   Opening Hours:
+      Monday: 12:00 - 14:00
+      Tuesday: 12:00 - 13:30
+      Wednesday: 12:00 - 13:30
+      Thursday: 12:00 - 13:30
+      Friday: 12:00 - 13:30
+      Saturday: 12:00 - 13:30
+      Sunday: 12:00 - 14:00
+
+74. Ristorante Gianna
+   24/7: No
+   Opening Hours:
+      Monday: 19:15 - 21:00
+      Tuesday: 19:15 - 21:00
+      Wednesday: 19:15 - 21:00
+      Thursday: 19:15 - 21:00
+      Friday: 19:15 - 21:00
+      Saturday: 19:15 - 21:00
+      Sunday: 19:15 - 21:00
+
+75. Rifugio Boch
+   24/7: No
+   Opening Hours: Not specified
+
+76. Style Hotel Grifone Campiglio
+   24/7: No
+   Opening Hours: Not specified
+
+77. Ristorante Pizzeria - All' Antica Segheria
+   24/7: No
+   Opening Hours:
+      Monday: 12:00 - 15:00
+      Tuesday: 12:00 - 15:00
+      Wednesday: 12:00 - 15:00
+      Thursday: 12:00 - 15:00
+      Friday: 12:00 - 15:00
+      Saturday: 12:00 - 15:00
+      Sunday: 12:00 - 15:00
+
+78. Ristorante Stube ROSENGARTEN
+   24/7: No
+   Opening Hours:
+      Monday: 19:30 - 22:00
+      Tuesday: 19:30 - 22:00
+      Wednesday: 19:30 - 22:00
+      Thursday: 19:30 - 22:00
+      Friday: 19:30 - 22:00
+      Saturday: 19:30 - 22:00
+      Sunday: 19:30 - 22:00
+
+79. Osteria & Friends - Al 30
+   24/7: No
+   Opening Hours: Not specified
+
+80. Hotel Montana
+   24/7: No
+   Opening Hours:
+      Monday: 06:00 - 23:00
+      Tuesday: 06:00 - 23:00
+      Wednesday: 06:00 - 23:00
+      Thursday: 06:00 - 23:00
+      Friday: 06:00 - 23:00
+      Saturday: 06:00 - 23:00
+      Sunday: 06:00 - 23:00
+
+81. Hotel Miramonti
+   24/7: No
+   Opening Hours:
+      Monday: 07:00 - 00:00
+      Tuesday: 07:00 - 00:00
+      Wednesday: 07:00 - 00:00
+      Thursday: 07:00 - 00:00
+      Friday: 07:00 - 00:00
+      Saturday: 07:00 - 00:00
+      Sunday: 07:00 - 00:00
+
+82. Alpen Suite Hotel
+   24/7: Yes
+   Opening Hours:
+      Monday: 00:00 - N/A
+      Tuesday: Not specified
+      Wednesday: Not specified
+      Thursday: Not specified
+      Friday: Not specified
+      Saturday: Not specified
+      Sunday: Not specified
+
+83. Design Oberosler Hotel
+   24/7: No
+   Opening Hours: Not specified
+
+84. Golf Hotel Campiglio
+   24/7: Yes
+   Opening Hours:
+      Monday: 00:00 - N/A
+      Tuesday: Not specified
+      Wednesday: Not specified
+      Thursday: Not specified
+      Friday: Not specified
+      Saturday: Not specified
+      Sunday: Not specified
+
+85. Diana Boutique Hotel in Madonna di Campiglio
+   24/7: Yes
+   Opening Hours:
+      Monday: 00:00 - N/A
+      Tuesday: Not specified
+      Wednesday: Not specified
+      Thursday: Not specified
+      Friday: Not specified
+      Saturday: Not specified
+      Sunday: Not specified
+
+86. Dolomiti Hotel Cozzio
+   24/7: No
+   Opening Hours:
+      Monday: 08:00 - 00:00
+      Tuesday: 08:00 - 00:00
+      Wednesday: 08:00 - 00:00
+      Thursday: 08:00 - 00:00
+      Friday: 08:00 - 00:00
+      Saturday: 08:00 - 00:00
+      Sunday: 08:00 - 00:00
+
+87. Albergo alla Posta
+   24/7: No
+   Opening Hours: Not specified
+
+88. Hotel Europa
+   24/7: No
+   Opening Hours:
+      Monday: 07:00 - 00:00
+      Tuesday: 07:00 - 00:00
+      Wednesday: 07:00 - 00:00
+      Thursday: 07:00 - 00:00
+      Friday: 07:00 - 00:00
+      Saturday: 07:00 - 00:00
+      Sunday: 07:00 - 00:00
+
+89. Hotel Garni St. Hubertus
+   24/7: Yes
+   Opening Hours:
+      Monday: 00:00 - N/A
+      Tuesday: Not specified
+      Wednesday: Not specified
+      Thursday: Not specified
+      Friday: Not specified
+      Saturday: Not specified
+      Sunday: Not specified
+
+90. Hotel Touring
+   24/7: No
+   Opening Hours: Not specified
+
+91. Park Hotel Folgarida
+   24/7: No
+   Opening Hours: Not specified
+
+92. Hotel Rosengarten
+   24/7: Yes
+   Opening Hours:
+      Monday: 00:00 - N/A
+      Tuesday: Not specified
+      Wednesday: Not specified
+      Thursday: Not specified
+      Friday: Not specified
+      Saturday: Not specified
+      Sunday: Not specified
+
+93. Lefay Resort & SPA Dolomiti
+   24/7: No
+   Opening Hours: Not specified
+
+94. Hotel Betulla
+   24/7: No
+   Opening Hours: Not specified
+
+95. Hotel Garni Arnica S
+   24/7: Yes
+   Opening Hours:
+      Monday: 00:00 - N/A
+      Tuesday: Not specified
+      Wednesday: Not specified
+      Thursday: Not specified
+      Friday: Not specified
+      Saturday: Not specified
+      Sunday: Not specified
+
+96. Cerana Relax Hotel
+   24/7: Yes
+   Opening Hours:
+      Monday: 00:00 - N/A
+      Tuesday: Not specified
+      Wednesday: Not specified
+      Thursday: Not specified
+      Friday: Not specified
+      Saturday: Not specified
+      Sunday: Not specified
+
+97. Hotel Splendid
+   24/7: No
+   Opening Hours: Not specified
+
+98. Hotel Madonna di Campiglio Bonapace
+   24/7: Yes
+   Opening Hours:
+      Monday: 00:00 - N/A
+      Tuesday: Not specified
+      Wednesday: Not specified
+      Thursday: Not specified
+      Friday: Not specified
+      Saturday: Not specified
+      Sunday: Not specified
+
+99. Majestic Mountain Charme Hotel
+   24/7: Yes
+   Opening Hours:
+      Monday: 00:00 - N/A
+      Tuesday: Not specified
+      Wednesday: Not specified
+      Thursday: Not specified
+      Friday: Not specified
+      Saturday: Not specified
+      Sunday: Not specified
+
+100. Sporthotel Romantic Plaza
+   24/7: No
+   Opening Hours: Not specified
+
+101. Hotel Fortini
+   24/7: No
+   Opening Hours: Not specified
+
+102. Hotel Dahu Madonna di Campiglio
+   24/7: Yes
+   Opening Hours:
+      Monday: 00:00 - N/A
+      Tuesday: Not specified
+      Wednesday: Not specified
+      Thursday: Not specified
+      Friday: Not specified
+      Saturday: Not specified
+      Sunday: Not specified
+
+103. Carlo Magno Hotel Spa & Resort
+   24/7: No
+   Opening Hours: Not specified
+
+104. Hotel Chalet del Brenta
+   24/7: Yes
+   Opening Hours:
+      Monday: 00:00 - N/A
+      Tuesday: Not specified
+      Wednesday: Not specified
+      Thursday: Not specified
+      Friday: Not specified
+      Saturday: Not specified
+      Sunday: Not specified
+
+105. DV Chalet Boutique Hotel & Spa - Madonna di Campiglio
+   24/7: Yes
+   Opening Hours:
+      Monday: 00:00 - N/A
+      Tuesday: Not specified
+      Wednesday: Not specified
+      Thursday: Not specified
+      Friday: Not specified
+      Saturday: Not specified
+      Sunday: Not specified
+
+106. Hotel Madonna delle Nevi
+   24/7: No
+   Opening Hours:
+      Monday: 07:00 - 02:00
+      Tuesday: 07:00 - 02:00
+      Wednesday: 07:00 - 02:00
+      Thursday: 07:00 - 02:00
+      Friday: 07:00 - 02:00
+      Saturday: 07:00 - 02:00
+      Sunday: 07:00 - 02:00
+
+107. Hotel Cristallo
+   24/7: Yes
+   Opening Hours:
+      Monday: 00:00 - N/A
+      Tuesday: Not specified
+      Wednesday: Not specified
+      Thursday: Not specified
+      Friday: Not specified
+      Saturday: Not specified
+      Sunday: Not specified
+
+108. Chalet Laura Lodge Hotel
+   24/7: No
+   Opening Hours: Not specified
+
+109. Madonna di Campiglio
+   24/7: No
+   Opening Hours: Not specified
+
+110. Chalet dei Pini
+   24/7: No
+   Opening Hours:
+      Monday: 09:00 - 19:00
+      Tuesday: 09:00 - 19:00
+      Wednesday: 09:00 - 19:00
+      Thursday: 09:00 - 19:00
+      Friday: 09:00 - 19:00
+      Saturday: 09:00 - 19:00
+      Sunday: 09:00 - 19:00
+
+111. Residence Sport Campiglio
+   24/7: No
+   Opening Hours: Not specified
+
+112. Hotel B&B La montanara
+   24/7: No
+   Opening Hours: Not specified
+
+113. Hotiday Apartment Collection - Campiglio Grostè
+   24/7: No
+   Opening Hours: Not specified
+
+114. Residence Al Laghetto
+   24/7: No
+   Opening Hours:
+      Monday: 09:00 - 20:00
+      Tuesday: 09:00 - 18:00
+      Wednesday: 09:00 - 18:00
+      Thursday: 09:00 - 18:00
+      Friday: 09:00 - 18:00
+      Saturday: 09:00 - 18:00
+      Sunday: 09:00 - 18:00
+
+115. appartamento madonna
+   24/7: No
+   Opening Hours: Not specified
+
+116. Hotel Chalet All'Imperatore
+   24/7: Yes
+   Opening Hours:
+      Monday: 00:00 - N/A
+      Tuesday: Not specified
+      Wednesday: Not specified
+      Thursday: Not specified
+      Friday: Not specified
+      Saturday: Not specified
+      Sunday: Not specified
+
+117. Chalet Abete Bianco
+   24/7: No
+   Opening Hours: Not specified
+
+118. Chalet Brenta Dolomites - rif. MYHOME DOLOMITI
+   24/7: No
+   Opening Hours:
+      Monday: 09:00 - 17:00
+      Tuesday: 09:00 - 17:00
+      Wednesday: 09:00 - 17:00
+      Thursday: 09:00 - 17:00
+      Friday: 09:00 - 17:00
+      Saturday: 09:00 - 17:00
+      Sunday: 09:00 - 17:00
+
+119. Newly built Chalet Alpine with swimming pool, spa and hammam
+   24/7: No
+   Opening Hours: Not specified
+
+120. Alpine Days Mountain Home
+   24/7: No
+   Opening Hours: Not specified
+
+121. Chalet Doss
+   24/7: Yes
+   Opening Hours:
+      Monday: 00:00 - N/A
+      Tuesday: Not specified
+      Wednesday: Not specified
+      Thursday: Not specified
+      Friday: Not specified
+      Saturday: Not specified
+      Sunday: Not specified
+
+122. Chalet Spinale
+   24/7: No
+   Opening Hours:
+      Monday: 08:30 - 16:30
+      Tuesday: 08:30 - 16:30
+      Wednesday: 08:30 - 16:30
+      Thursday: 08:30 - 16:30
+      Friday: 08:30 - 16:30
+      Saturday: 08:30 - 16:30
+      Sunday: 08:30 - 16:30
+
+123. Edelweiss Alpine Nature Hotel
+   24/7: Yes
+   Opening Hours:
+      Monday: 00:00 - N/A
+      Tuesday: Not specified
+      Wednesday: Not specified
+      Thursday: Not specified
+      Friday: Not specified
+      Saturday: Not specified
+      Sunday: Not specified
+
+124. Sport 3 Tre
+   24/7: No
+   Opening Hours:
+      Monday: 08:30 - 12:30
+      Tuesday: 08:30 - 12:30
+      Wednesday: 08:30 - 12:30
+      Thursday: 08:30 - 12:30
+      Friday: 08:30 - 12:30
+      Saturday: 08:30 - 12:30
+      Sunday: 08:30 - 12:30
+
+125. Farmacia Scaglia
+   24/7: No
+   Opening Hours: Not specified
+
+126. BARIBAS
+   24/7: No
+   Opening Hours: Not specified
+
+127. Serafini & Sport
+   24/7: No
+   Opening Hours:
+      Monday: 08:30 - 12:30
+      Tuesday: 08:30 - 12:30
+      Wednesday: 08:30 - 12:30
+      Thursday: 08:30 - 12:30
+      Friday: 08:30 - 12:30
+      Saturday: 08:30 - 12:30
+      Sunday: 08:30 - 12:30
+
+128. Famiglia Cooperativa Madonna di Campiglio
+   24/7: No
+   Opening Hours:
+      Monday: 08:30 - 13:00
+      Tuesday: 08:30 - 13:00
+      Wednesday: 08:30 - 13:00
+      Thursday: 08:30 - 13:00
+      Friday: 08:30 - 13:00
+      Saturday: 08:30 - 13:00
+      Sunday: 08:30 - 13:00
+
+129. Enophilia - Sommelier Consulting
+   24/7: No
+   Opening Hours:
+      Monday: Not specified
+      Tuesday: 09:30 - 12:30
+      Wednesday: 09:30 - 13:00
+      Thursday: 09:30 - 13:00
+      Friday: 09:30 - 13:00
+      Saturday: 09:30 - 13:00
+      Sunday: 09:30 - 13:00
+
+130. Boutique Excelsior
+   24/7: No
+   Opening Hours:
+      Monday: 09:30 - 13:00
+      Tuesday: 09:30 - 13:00
+      Wednesday: 09:30 - 13:00
+      Thursday: 09:30 - 13:00
+      Friday: 09:30 - 13:00
+      Saturday: 09:30 - 13:00
+      Sunday: 09:30 - 13:00
+
+131. L`Ottica di Campiglio
+   24/7: No
+   Opening Hours:
+      Monday: 10:00 - 12:30
+      Tuesday: 10:00 - 12:30
+      Wednesday: 10:00 - 12:30
+      Thursday: 10:00 - 12:30
+      Friday: 10:00 - 12:30
+      Saturday: 10:00 - 12:30
+      Sunday: 10:00 - 12:30
+
+132. Cartolibreria Feltracco
+   24/7: No
+   Opening Hours:
+      Monday: 07:00 - 13:00
+      Tuesday: 07:00 - 13:00
+      Wednesday: 07:00 - 13:00
+      Thursday: 07:00 - 13:00
+      Friday: 07:00 - 13:00
+      Saturday: 07:00 - 13:00
+      Sunday: 07:00 - 13:00
+
+133. Profumeria Alpi
+   24/7: No
+   Opening Hours:
+      Monday: 10:00 - 13:00
+      Tuesday: 10:00 - 13:00
+      Wednesday: 10:00 - 13:00
+      Thursday: 10:00 - 13:00
+      Friday: 10:00 - 13:00
+      Saturday: 10:00 - 13:00
+      Sunday: 10:00 - 20:00
+
+134. Lorenzi Snc Madonna di Campiglio
+   24/7: No
+   Opening Hours:
+      Monday: 09:30 - 12:30
+      Tuesday: 09:30 - 12:30
+      Wednesday: 09:30 - 12:30
+      Thursday: 09:30 - 12:30
+      Friday: 09:30 - 12:30
+      Saturday: 09:30 - 12:30
+      Sunday: 09:30 - 12:30
+
+135. Rental Del Brenta
+   24/7: No
+   Opening Hours:
+      Monday: 08:30 - 12:00
+      Tuesday: 08:30 - 12:00
+      Wednesday: 08:30 - 12:00
+      Thursday: 08:30 - 12:00
+      Friday: 08:30 - 12:00
+      Saturday: 08:30 - 12:00
+      Sunday: 08:30 - 12:00
+
+136. Casa del cioccolato
+   24/7: No
+   Opening Hours:
+      Monday: 09:30 - 12:30
+      Tuesday: 09:30 - 12:30
+      Wednesday: 09:30 - 12:30
+      Thursday: 09:30 - 12:30
+      Friday: 09:30 - 12:30
+      Saturday: 09:30 - 12:30
+      Sunday: 09:30 - 12:30
+
+137. Sfiziosità da Marcello
+   24/7: No
+   Opening Hours:
+      Monday: 09:00 - 12:30
+      Tuesday: 09:00 - 12:30
+      Wednesday: 09:00 - 12:30
+      Thursday: 09:00 - 12:30
+      Friday: 09:00 - 12:30
+      Saturday: 09:00 - 12:30
+      Sunday: 09:00 - 12:30
+
+138. IQOS Boutique
+   24/7: No
+   Opening Hours:
+      Monday: 10:00 - 13:00
+      Tuesday: 10:00 - 13:00
+      Wednesday: 10:00 - 13:00
+      Thursday: 10:00 - 13:00
+      Friday: 10:00 - 13:00
+      Saturday: 10:00 - 13:00
+      Sunday: 10:00 - 13:00
+
+139. negozio martini l'arte dell'arredo
+   24/7: No
+   Opening Hours:
+      Monday: 09:30 - 12:30
+      Tuesday: 09:30 - 12:30
+      Wednesday: 09:30 - 12:30
+      Thursday: 09:30 - 12:30
+      Friday: 09:30 - 12:30
+      Saturday: 09:30 - 12:30
+      Sunday: 09:30 - 12:30
+
+140. Scuola italiana snowboard The Garden
+   24/7: No
+   Opening Hours:
+      Monday: 09:15 - 15:15
+      Tuesday: 09:15 - 15:15
+      Wednesday: 09:15 - 15:15
+      Thursday: 09:15 - 15:15
+      Friday: 09:15 - 15:15
+      Saturday: 09:15 - 15:15
+      Sunday: 09:15 - 15:15
+
+141. Profumo di Campiglio
+   24/7: No
+   Opening Hours: Not specified
+
+142. Onside Snowboard shop
+   24/7: No
+   Opening Hours:
+      Monday: 09:30 - 13:00
+      Tuesday: 09:00 - 13:00
+      Wednesday: 09:00 - 13:00
+      Thursday: 09:00 - 13:00
+      Friday: 09:00 - 13:00
+      Saturday: 09:00 - 13:00
+      Sunday: 09:00 - 13:00
+
+143. Piccolo centro commerciale
+   24/7: No
+   Opening Hours:
+      Monday: 08:00 - 12:00
+      Tuesday: 08:00 - 12:00
+      Wednesday: 08:00 - 12:00
+      Thursday: 08:00 - 12:00
+      Friday: 08:00 - 12:00
+      Saturday: 08:00 - 12:00
+      Sunday: 08:00 - 12:00
+
+144. Baraonda Boutique
+   24/7: No
+   Opening Hours:
+      Monday: 10:00 - 13:00
+      Tuesday: 10:00 - 13:00
+      Wednesday: 10:00 - 13:00
+      Thursday: 10:00 - 13:00
+      Friday: 10:00 - 13:00
+      Saturday: 10:00 - 13:00
+      Sunday: 10:00 - 13:00
+
+145. La Bottega di Cesare Maestri
+   24/7: No
+   Opening Hours:
+      Monday: 10:00 - 12:30
+      Tuesday: 10:00 - 12:30
+      Wednesday: 10:00 - 12:30
+      Thursday: 10:00 - 12:30
+      Friday: 10:00 - 12:30
+      Saturday: 10:00 - 12:30
+      Sunday: 10:00 - 12:30
+
+146. Pretti Rosella
+   24/7: No
+   Opening Hours: Not specified
+
+147. Lorenzetti - Negozio di Abbigliamento di Lusso
+   24/7: No
+   Opening Hours:
+      Monday: 09:15 - 12:30
+      Tuesday: 09:15 - 12:30
+      Wednesday: 09:15 - 12:30
+      Thursday: 09:15 - 12:30
+      Friday: 09:15 - 12:30
+      Saturday: 09:15 - 12:30
+      Sunday: 09:15 - 12:30
+
+148. UYN Store Madonna di Campiglio
+   24/7: No
+   Opening Hours:
+      Monday: 10:00 - 13:30
+      Tuesday: Not specified
+      Wednesday: 15:00 - 19:30
+      Thursday: 15:00 - 19:30
+      Friday: 10:00 - 13:30
+      Saturday: 10:00 - 13:30
+      Sunday: 10:00 - 13:30
+
+149. Cantiere 18
+   24/7: No
+   Opening Hours: Not specified
+
+150. Lorenzetti Outlet
+   24/7: No
+   Opening Hours:
+      Monday: 09:15 - 12:30
+      Tuesday: 09:15 - 12:30
+      Wednesday: 09:30 - 12:30
+      Thursday: 09:30 - 12:30
+      Friday: 09:30 - 12:30
+      Saturday: 09:30 - 12:30
+      Sunday: 09:30 - 12:30
+
+151. Stile Alpino
+   24/7: No
+   Opening Hours:
+      Monday: 09:30 - 19:30
+      Tuesday: 09:30 - 19:30
+      Wednesday: 09:30 - 19:30
+      Thursday: 09:30 - 19:30
+      Friday: 09:30 - 19:30
+      Saturday: 09:30 - 19:30
+      Sunday: 09:30 - 19:30
+
+152. Artigianato locale e artistico
+   24/7: No
+   Opening Hours:
+      Monday: 09:30 - 19:30
+      Tuesday: 09:30 - 19:30
+      Wednesday: 09:30 - 19:30
+      Thursday: 09:30 - 19:30
+      Friday: 09:30 - 19:30
+      Saturday: 09:30 - 19:30
+      Sunday: 09:30 - 19:30
+
+153. z box
+   24/7: No
+   Opening Hours:
+      Monday: 10:00 - 13:00
+      Tuesday: 10:00 - 13:00
+      Wednesday: 10:00 - 13:00
+      Thursday: 10:00 - 13:00
+      Friday: 10:00 - 13:00
+      Saturday: 10:00 - 13:00
+      Sunday: 10:00 - 13:00
+
+154. Colmar Store Madonna di Campiglio
+   24/7: No
+   Opening Hours:
+      Monday: 09:30 - 12:30
+      Tuesday: 09:30 - 12:30
+      Wednesday: 09:30 - 12:30
+      Thursday: 09:30 - 12:30
+      Friday: 09:30 - 12:30
+      Saturday: 09:30 - 12:30
+      Sunday: 09:30 - 12:30
+
+155. Podhio Store Campiglio
+   24/7: No
+   Opening Hours:
+      Monday: 10:00 - 13:00
+      Tuesday: 15:30 - 19:30
+      Wednesday: 10:00 - 13:00
+      Thursday: Not specified
+      Friday: 10:00 - 13:00
+      Saturday: 10:00 - 13:00
+      Sunday: 10:00 - 13:00
+
+156. BOUTIQUE CHRISTINE
+   24/7: No
+   Opening Hours:
+      Monday: 10:00 - 12:30
+      Tuesday: 10:00 - 12:30
+      Wednesday: 10:00 - 12:30
+      Thursday: 10:00 - 12:30
+      Friday: 10:00 - 12:30
+      Saturday: 10:00 - 12:30
+      Sunday: 10:00 - 12:30
+
+157. Le Cose Buone
+   24/7: No
+   Opening Hours:
+      Monday: 09:30 - 12:30
+      Tuesday: 09:30 - 12:30
+      Wednesday: 09:30 - 12:30
+      Thursday: 09:30 - 12:30
+      Friday: 09:30 - 12:30
+      Saturday: 09:30 - 12:30
+      Sunday: 09:30 - 12:30
+
+158. Papate Shoes and Accessories
+   24/7: No
+   Opening Hours:
+      Monday: 09:30 - 12:30
+      Tuesday: 09:30 - 12:30
+      Wednesday: 09:30 - 12:30
+      Thursday: 09:30 - 12:30
+      Friday: 09:30 - 12:30
+      Saturday: 09:30 - 12:30
+      Sunday: 09:30 - 12:30
+
+159. Lorenzetti Sport
+   24/7: No
+   Opening Hours:
+      Monday: 09:15 - 12:30
+      Tuesday: 09:15 - 12:30
+      Wednesday: 09:15 - 12:30
+      Thursday: 09:15 - 12:30
+      Friday: 09:15 - 12:30
+      Saturday: 09:15 - 12:30
+      Sunday: 09:15 - 12:30
+
+160. Boutique Cat Sport
+   24/7: No
+   Opening Hours:
+      Monday: 10:00 - 13:00
+      Tuesday: 10:00 - 13:00
+      Wednesday: 10:00 - 13:00
+      Thursday: 10:00 - 13:00
+      Friday: 10:00 - 13:00
+      Saturday: 10:00 - 13:00
+      Sunday: 10:00 - 13:00
+
+161. Robe di Kappa 236 Madonna di Campiglio
+   24/7: No
+   Opening Hours:
+      Monday: 10:00 - 13:00
+      Tuesday: 10:00 - 13:00
+      Wednesday: 10:00 - 13:00
+      Thursday: 10:00 - 13:00
+      Friday: 10:00 - 13:00
+      Saturday: 10:00 - 13:00
+      Sunday: 10:00 - 13:00
+
+162. Madonna di Campiglio Azienda per il Turismo
+   24/7: No
+   Opening Hours:
+      Monday: 08:30 - 12:30
+      Tuesday: 08:30 - 12:30
+      Wednesday: 08:30 - 12:30
+      Thursday: 08:30 - 12:30
+      Friday: 08:30 - 12:30
+      Saturday: 08:30 - 12:30
+      Sunday: 08:30 - 12:30
+
+163. Gioielleria Orologeria Stedile Rivenditore Autorizzato Rolex
+   24/7: No
+   Opening Hours:
+      Monday: Not specified
+      Tuesday: Not specified
+      Wednesday: 09:30 - 12:00
+      Thursday: 09:30 - 12:00
+      Friday: 09:30 - 12:00
+      Saturday: 09:30 - 12:00
+      Sunday: 09:30 - 12:00
+
+164. NOLEGGIO SCI OLIMPIONICO SPORT 2 Piazza Righi
+   24/7: No
+   Opening Hours:
+      Monday: 08:00 - 20:00
+      Tuesday: 08:00 - 20:00
+      Wednesday: 08:00 - 20:00
+      Thursday: 08:00 - 20:00
+      Friday: 08:00 - 20:00
+      Saturday: 08:00 - 20:00
+      Sunday: 08:00 - 20:00
+
+165. Ski Planet
+   24/7: No
+   Opening Hours:
+      Monday: Not specified
+      Tuesday: 08:30 - 18:30
+      Wednesday: 08:30 - 18:30
+      Thursday: 08:30 - 18:30
+      Friday: 08:30 - 18:30
+      Saturday: 08:30 - 18:30
+      Sunday: 09:00 - 19:00
+
+166. Noleggio Sci e Riparazioni Alta Quota Telecabina Groste' di Vidi Gilberto & C s.a.s.
+   24/7: No
+   Opening Hours:
+      Monday: 08:30 - 17:30
+      Tuesday: 08:15 - 17:00
+      Wednesday: 08:15 - 17:00
+      Thursday: 08:30 - 17:00
+      Friday: 08:30 - 17:00
+      Saturday: 08:30 - 17:30
+      Sunday: 08:30 - 17:30
+
+167. olimpionico sport 2
+   24/7: No
+   Opening Hours:
+      Monday: 08:00 - 12:00
+      Tuesday: 08:00 - 12:00
+      Wednesday: 08:00 - 12:00
+      Thursday: 08:00 - 12:00
+      Friday: 08:00 - 12:00
+      Saturday: 08:00 - 12:00
+      Sunday: 08:00 - 12:00
+
+168. Olimpionico Sport 2
+   24/7: No
+   Opening Hours:
+      Monday: 08:00 - 12:00
+      Tuesday: 08:00 - 12:00
+      Wednesday: 08:00 - 12:00
+      Thursday: 08:00 - 12:00
+      Friday: 08:00 - 12:00
+      Saturday: 08:00 - 12:00
+      Sunday: 08:00 - 12:00
+
+169. Ski Rent Campiglio - LORENZETTI
+   24/7: No
+   Opening Hours:
+      Monday: 08:00 - 19:30
+      Tuesday: 08:00 - 19:30
+      Wednesday: 08:00 - 19:30
+      Thursday: 08:00 - 19:30
+      Friday: 08:00 - 19:30
+      Saturday: 08:00 - 19:30
+      Sunday: 08:00 - 19:30
+
+170. Ski Depot Campiglio
+   24/7: No
+   Opening Hours:
+      Monday: 08:00 - 19:00
+      Tuesday: 08:00 - 18:00
+      Wednesday: 08:00 - 18:00
+      Thursday: 08:00 - 18:00
+      Friday: 08:00 - 18:00
+      Saturday: 08:00 - 18:00
+      Sunday: 08:00 - 19:00
+
+171. Noleggio sci Des Alpes
+   24/7: No
+   Opening Hours:
+      Monday: 08:15 - 17:00
+      Tuesday: 08:15 - 17:00
+      Wednesday: 08:15 - 17:00
+      Thursday: 08:15 - 17:00
+      Friday: 08:15 - 17:00
+      Saturday: 08:15 - 17:00
+      Sunday: 08:15 - 17:00
+
+172. NOLEGGIO SCI OLIMPIONICO SPORT 2 palu'
+   24/7: No
+   Opening Hours:
+      Monday: 08:00 - 20:00
+      Tuesday: 08:00 - 20:00
+      Wednesday: 08:00 - 20:00
+      Thursday: 08:00 - 20:00
+      Friday: 08:00 - 20:00
+      Saturday: 08:00 - 20:00
+      Sunday: 08:00 - 20:00
+
+173. il COMODO SCI di Maestranzi Giuseppe
+   24/7: No
+   Opening Hours:
+      Monday: 08:00 - 18:00
+      Tuesday: 08:00 - 18:00
+      Wednesday: 08:00 - 18:00
+      Thursday: 08:00 - 18:00
+      Friday: 08:00 - 18:00
+      Saturday: 08:00 - 18:00
+      Sunday: 08:00 - 18:00
+
+174. Noleggio 5 Laghi
+   24/7: No
+   Opening Hours:
+      Monday: 08:00 - 19:00
+      Tuesday: 08:00 - 19:00
+      Wednesday: 08:00 - 19:00
+      Thursday: 08:00 - 19:00
+      Friday: 08:00 - 19:00
+      Saturday: 08:00 - 19:00
+      Sunday: 08:00 - 19:00
+
+175. Scuola Italiana Sci 5 Laghi
+   24/7: No
+   Opening Hours:
+      Monday: 08:00 - 19:00
+      Tuesday: 08:00 - 19:00
+      Wednesday: 08:00 - 19:00
+      Thursday: 08:00 - 19:00
+      Friday: 08:00 - 19:00
+      Saturday: 08:00 - 19:00
+      Sunday: 08:00 - 19:00
+
+176. Red Panda Sport
+   24/7: No
+   Opening Hours: Not specified
+
+177. Rh Snc Di Ruatti Ivan & Holtslag J.
+   24/7: No
+   Opening Hours:
+      Monday: 09:00 - 12:30
+      Tuesday: 09:00 - 12:30
+      Wednesday: 09:00 - 12:30
+      Thursday: 09:00 - 12:30
+      Friday: 09:00 - 12:30
+      Saturday: 09:00 - 12:30
+      Sunday: 09:00 - 12:30
+
+178. Il Laboratorio Sport
+   24/7: No
+   Opening Hours:
+      Monday: 08:00 - 19:30
+      Tuesday: 08:00 - 12:30
+      Wednesday: 08:00 - 12:30
+      Thursday: 08:00 - 12:30
+      Friday: 08:00 - 12:30
+      Saturday: 08:00 - 12:30
+      Sunday: 08:00 - 19:30
+
+179. Sport-Hub
+   24/7: No
+   Opening Hours:
+      Monday: 09:30 - 12:30
+      Tuesday: 09:30 - 12:30
+      Wednesday: 09:30 - 12:30
+      Thursday: 09:30 - 12:30
+      Friday: 09:30 - 12:30
+      Saturday: 09:30 - 12:30
+      Sunday: 09:30 - 12:30
+
+180. Madonna di Campiglio
+   24/7: No
+   Opening Hours: Not specified
+
+181. Pinzolo
+   24/7: No
+   Opening Hours: Not specified
+
+182. Funivie Folgarida Marilleva
+   24/7: No
+   Opening Hours: Not specified
+
+183. Ursus Snowpark - Madonna di Campiglio
+   24/7: No
+   Opening Hours: Not specified
+
+184. Funivie Pinzolo Spa - Sede Centrale
+   24/7: No
+   Opening Hours:
+      Monday: 08:30 - 18:00
+      Tuesday: 08:30 - 17:00
+      Wednesday: 08:30 - 17:00
+      Thursday: 08:30 - 17:00
+      Friday: 08:30 - 17:00
+      Saturday: 08:30 - 17:00
+      Sunday: 08:30 - 18:00
+
+185. Funivie Pinzolo Spa - Tulot
+   24/7: No
+   Opening Hours:
+      Monday: 08:30 - 12:50
+      Tuesday: 08:30 - 12:50
+      Wednesday: 08:30 - 12:50
+      Thursday: 08:30 - 12:50
+      Friday: 08:30 - 12:50
+      Saturday: 08:30 - 12:50
+      Sunday: 08:30 - 12:50
+
+186. Funivie Madonna di Campiglio S.p.a.
+   24/7: No
+   Opening Hours:
+      Monday: Not specified
+      Tuesday: 08:30 - 12:30
+      Wednesday: 08:30 - 12:30
+      Thursday: 08:30 - 12:30
+      Friday: 08:30 - 12:30
+      Saturday: 08:30 - 12:30
+      Sunday: Not specified
+
+187. Italian Ski School ADAMELLO Brenta - Madonna di Campiglio
+   24/7: No
+   Opening Hours:
+      Monday: 08:00 - 22:00
+      Tuesday: 08:00 - 22:00
+      Wednesday: 08:00 - 22:00
+      Thursday: 08:00 - 22:00
+      Friday: 08:00 - 22:00
+      Saturday: 08:00 - 22:00
+      Sunday: 08:00 - 22:00
+
+188. Italian Ski Academy
+   24/7: No
+   Opening Hours:
+      Monday: 08:30 - 20:30
+      Tuesday: 08:30 - 20:30
+      Wednesday: 08:30 - 20:30
+      Thursday: 08:30 - 20:30
+      Friday: 08:30 - 20:30
+      Saturday: 08:30 - 20:30
+      Sunday: 08:30 - 20:30
+
+189. Funivie Madonna Di Campiglio
+   24/7: No
+   Opening Hours:
+      Monday: Not specified
+      Tuesday: 08:30 - 12:30
+      Wednesday: 08:30 - 12:30
+      Thursday: 08:30 - 12:30
+      Friday: 08:30 - 12:30
+      Saturday: 08:30 - 12:30
+      Sunday: Not specified
+
+190. Hotel Garni Mountain Resort
+   24/7: No
+   Opening Hours: Not specified
+
+191. Cabinovia Spinale
+   24/7: No
+   Opening Hours:
+      Monday: 08:30 - 16:30
+      Tuesday: 08:30 - 16:30
+      Wednesday: 08:30 - 16:30
+      Thursday: 08:30 - 16:30
+      Friday: 08:30 - 16:30
+      Saturday: 08:30 - 16:30
+      Sunday: 08:30 - 16:30
+
+192. Cabinovia Grostè
+   24/7: No
+   Opening Hours:
+      Monday: 08:30 - 16:10
+      Tuesday: 08:30 - 16:10
+      Wednesday: 08:30 - 16:10
+      Thursday: 08:30 - 16:10
+      Friday: 08:30 - 16:10
+      Saturday: 08:30 - 16:10
+      Sunday: 08:30 - 16:10
+
+193. Consorzio Pontedilegno-Tonale
+   24/7: No
+   Opening Hours:
+      Monday: 08:00 - 19:00
+      Tuesday: 08:00 - 17:00
+      Wednesday: 08:00 - 17:00
+      Thursday: 08:00 - 17:00
+      Friday: 08:00 - 17:00
+      Saturday: 08:00 - 17:00
+      Sunday: 08:00 - 19:00
+
+194. Cabinovia Pradalago
+   24/7: No
+   Opening Hours: Not specified
+
+195. Cabinovia Express 5 Laghi
+   24/7: No
+   Opening Hours: Not specified
+
+196. Centro Fondo Campo Carlo Magno
+   24/7: No
+   Opening Hours:
+      Monday: 09:00 - 17:00
+      Tuesday: 09:00 - 17:00
+      Wednesday: 09:00 - 17:00
+      Thursday: 09:00 - 17:00
+      Friday: 09:00 - 17:00
+      Saturday: 09:00 - 17:00
+      Sunday: 09:00 - 17:00
+
+197. Scuola Italiana Snowboard Professional Snowboarding
+   24/7: No
+   Opening Hours:
+      Monday: 08:30 - 12:30
+      Tuesday: 08:30 - 12:30
+      Wednesday: 08:30 - 12:30
+      Thursday: 08:30 - 12:30
+      Friday: 08:30 - 12:30
+      Saturday: 08:30 - 12:30
+      Sunday: 08:30 - 12:30
+
+198. Italian Ski and Snowboard School Rainalter
+   24/7: No
+   Opening Hours:
+      Monday: 08:30 - 19:00
+      Tuesday: 08:30 - 19:00
+      Wednesday: 08:30 - 19:00
+      Thursday: 08:30 - 19:00
+      Friday: 08:30 - 19:00
+      Saturday: 08:30 - 19:00
+      Sunday: 08:30 - 19:00
+
+199. Scuola Italiana Sci & Snowboard K2 Madonna di Campiglio
+   24/7: No
+   Opening Hours:
+      Monday: 08:00 - 20:00
+      Tuesday: 08:00 - 20:00
+      Wednesday: 08:00 - 20:00
+      Thursday: 08:00 - 20:00
+      Friday: 08:00 - 20:00
+      Saturday: 08:00 - 20:00
+      Sunday: 08:00 - 20:00
+
+200. Italian Ski School Campo Carlo Magno
+   24/7: No
+   Opening Hours:
+      Monday: 08:00 - 18:00
+      Tuesday: 08:00 - 18:00
+      Wednesday: 08:00 - 18:00
+      Thursday: 08:00 - 18:00
+      Friday: 08:00 - 18:00
+      Saturday: 08:00 - 18:00
+      Sunday: 08:00 - 18:00
+
+201. Campiglio Sport Di Casagrande Francesca
+   24/7: No
+   Opening Hours:
+      Monday: 08:00 - 12:30
+      Tuesday: 08:30 - 12:30
+      Wednesday: 08:30 - 12:30
+      Thursday: 08:30 - 12:30
+      Friday: 08:30 - 12:30
+      Saturday: 08:30 - 12:30
+      Sunday: 08:00 - 12:30
+
+202. Scuola Italiana Snowboard Zebra
+   24/7: No
+   Opening Hours:
+      Monday: 08:00 - 12:30
+      Tuesday: 08:00 - 12:30
+      Wednesday: 08:00 - 12:30
+      Thursday: 08:00 - 12:30
+      Friday: 08:00 - 12:30
+      Saturday: 08:00 - 12:30
+      Sunday: 08:00 - 12:30
+
+203. Guide Alpine Madonna di Campiglio Scuola di alpinismo e sci alpinismo
+   24/7: No
+   Opening Hours:
+      Monday: 16:00 - 19:00
+      Tuesday: 16:00 - 19:00
+      Wednesday: 16:00 - 19:00
+      Thursday: 16:00 - 19:00
+      Friday: 16:00 - 19:00
+      Saturday: 16:00 - 19:00
+      Sunday: 16:00 - 19:00
+
+204. Noleggio del Brenta - Palù
+   24/7: No
+   Opening Hours:
+      Monday: 08:30 - 12:00
+      Tuesday: 08:30 - 12:00
+      Wednesday: 08:30 - 12:00
+      Thursday: 08:30 - 12:00
+      Friday: 08:30 - 12:00
+      Saturday: 08:30 - 12:00
+      Sunday: 08:30 - 12:00
+
+205. Dolomiti Ski Rent
+   24/7: No
+   Opening Hours:
+      Monday: 08:00 - 19:00
+      Tuesday: 08:00 - 19:00
+      Wednesday: 08:00 - 19:00
+      Thursday: 08:00 - 19:00
+      Friday: 08:00 - 19:00
+      Saturday: 08:00 - 19:00
+      Sunday: 08:00 - 19:00
+
+206. Noleggio Sci - Riparaz. Deposito di Maestranzi G. C. Snc
+   24/7: No
+   Opening Hours:
+      Monday: 06:00 - 19:00
+      Tuesday: Not specified
+      Wednesday: Not specified
+      Thursday: Not specified
+      Friday: Not specified
+      Saturday: Not specified
+      Sunday: 06:00 - 19:00
+
+207. This is My Test Venue Data.
+   24/7: No
+   Opening Hours:
+      Monday: 14:03 - 02:03
+      Tuesday: 14:03 - 02:04
+      Wednesday: 14:03 - 02:04
+      Thursday: 14:04 - 02:04
+      Friday: 14:04 - 02:04
+      Saturday: 14:04 - 02:04
+      Sunday: 14:04 - 02:04
+
+208. Hotel Montana
+   24/7: No
+   Opening Hours:
+      Monday: 06:00 - 23:00
+      Tuesday: 06:00 - 23:00
+      Wednesday: 06:00 - 23:00
+      Thursday: 06:00 - 23:00
+      Friday: 06:00 - 23:00
+      Saturday: 06:00 - 23:00
+      Sunday: 06:00 - 23:00
+
+209. Hotel Miramonti
+   24/7: No
+   Opening Hours:
+      Monday: 07:00 - 00:00
+      Tuesday: 07:00 - 00:00
+      Wednesday: 07:00 - 00:00
+      Thursday: 07:00 - 00:00
+      Friday: 07:00 - 00:00
+      Saturday: 07:00 - 00:00
+      Sunday: 07:00 - 00:00
+
+210. Alpen Suite Hotel
+   24/7: Yes
+   Opening Hours:
+      Monday: 00:00 - N/A
+      Tuesday: Not specified
+      Wednesday: Not specified
+      Thursday: Not specified
+      Friday: Not specified
+      Saturday: Not specified
+      Sunday: Not specified
+
+211. Design Oberosler Hotel
+   24/7: No
+   Opening Hours: Not specified
+
+212. Hotel Ariston B&B and Restaurant Madonna di Campiglio
+   24/7: No
+   Opening Hours:
+      Monday: 07:30 - 00:00
+      Tuesday: 07:30 - 00:00
+      Wednesday: 07:30 - 00:00
+      Thursday: 07:30 - 00:00
+      Friday: 07:30 - 00:00
+      Saturday: 07:30 - 00:00
+      Sunday: 07:30 - 00:00
+
+213. Golf Hotel Campiglio
+   24/7: Yes
+   Opening Hours:
+      Monday: 00:00 - N/A
+      Tuesday: Not specified
+      Wednesday: Not specified
+      Thursday: Not specified
+      Friday: Not specified
+      Saturday: Not specified
+      Sunday: Not specified
+
+214. Diana Boutique Hotel in Madonna di Campiglio
+   24/7: Yes
+   Opening Hours:
+      Monday: 00:00 - N/A
+      Tuesday: Not specified
+      Wednesday: Not specified
+      Thursday: Not specified
+      Friday: Not specified
+      Saturday: Not specified
+      Sunday: Not specified
+
+215. Bio Hotel Hermitage
+   24/7: No
+   Opening Hours: Not specified
+
+216. Dolomiti Hotel Cozzio
+   24/7: No
+   Opening Hours:
+      Monday: 08:00 - 00:00
+      Tuesday: 08:00 - 00:00
+      Wednesday: 08:00 - 00:00
+      Thursday: 08:00 - 00:00
+      Friday: 08:00 - 00:00
+      Saturday: 08:00 - 00:00
+      Sunday: 08:00 - 00:00
+
+217. Albergo alla Posta
+   24/7: No
+   Opening Hours: Not specified
+
+218. Hotel Europa
+   24/7: No
+   Opening Hours:
+      Monday: 07:00 - 00:00
+      Tuesday: 07:00 - 00:00
+      Wednesday: 07:00 - 00:00
+      Thursday: 07:00 - 00:00
+      Friday: 07:00 - 00:00
+      Saturday: 07:00 - 00:00
+      Sunday: 07:00 - 00:00
+
+219. Hotel Cristal Palace
+   24/7: Yes
+   Opening Hours:
+      Monday: 00:00 - N/A
+      Tuesday: Not specified
+      Wednesday: Not specified
+      Thursday: Not specified
+      Friday: Not specified
+      Saturday: Not specified
+      Sunday: Not specified
+
+220. Hotel Garni St. Hubertus
+   24/7: Yes
+   Opening Hours:
+      Monday: 00:00 - N/A
+      Tuesday: Not specified
+      Wednesday: Not specified
+      Thursday: Not specified
+      Friday: Not specified
+      Saturday: Not specified
+      Sunday: Not specified
+
+221. Hotel Casa del Campo
+   24/7: No
+   Opening Hours: Not specified
+
+222. Hotel Touring
+   24/7: No
+   Opening Hours: Not specified
+
+223. Alpen Hotel Vidi - Mountainbike, Freeride, Snowboard,
+   24/7: Yes
+   Opening Hours:
+      Monday: 00:00 - N/A
+      Tuesday: Not specified
+      Wednesday: Not specified
+      Thursday: Not specified
+      Friday: Not specified
+      Saturday: Not specified
+      Sunday: Not specified
+
+224. Park Hotel Folgarida
+   24/7: No
+   Opening Hours: Not specified
+
+225. Relais Des Alpes
+   24/7: No
+   Opening Hours: Not specified
+
+226. Hotel Crozzon
+   24/7: Yes
+   Opening Hours:
+      Monday: 00:00 - N/A
+      Tuesday: Not specified
+      Wednesday: Not specified
+      Thursday: Not specified
+      Friday: Not specified
+      Saturday: Not specified
+      Sunday: Not specified
+
+227. HOTEL ALPINA
+   24/7: No
+   Opening Hours:
+      Monday: 07:30 - 23:00
+      Tuesday: 07:30 - 23:00
+      Wednesday: 07:30 - 23:00
+      Thursday: 07:30 - 23:00
+      Friday: 07:30 - 23:00
+      Saturday: 07:30 - 23:00
+      Sunday: 07:30 - 23:00
+
+228. Rifugio Tuckett e Sella
+   24/7: No
+   Opening Hours:
+      Monday: 06:30 - 22:00
+      Tuesday: 06:30 - 22:00
+      Wednesday: 06:30 - 22:00
+      Thursday: 06:30 - 22:00
+      Friday: 06:30 - 22:00
+      Saturday: 06:30 - 22:00
+      Sunday: 06:30 - 22:00
+
+229. Chalet Patascoss
+   24/7: No
+   Opening Hours:
+      Monday: 08:30 - 17:00
+      Tuesday: 08:30 - 17:00
+      Wednesday: 08:30 - 17:00
+      Thursday: 08:30 - 17:00
+      Friday: 08:30 - 17:00
+      Saturday: 08:30 - 17:00
+      Sunday: 08:30 - 17:00
+
+230. Rifugio Stoppani
+   24/7: No
+   Opening Hours: Not specified
+
+231. Rifugio Lago Nambino
+   24/7: No
+   Opening Hours:
+      Monday: 08:00 - 22:00
+      Tuesday: 08:00 - 22:00
+      Wednesday: 08:00 - 22:00
+      Thursday: 08:00 - 22:00
+      Friday: 08:00 - 22:00
+      Saturday: 08:00 - 22:00
+      Sunday: 08:00 - 22:00
+
+232. Rifugio Viviani Pradalago
+   24/7: No
+   Opening Hours: Not specified
+
+233. Rifugio Boch
+   24/7: No
+   Opening Hours: Not specified
+
+234. Rifugio Pradalago 2100 Bar Self Service
+   24/7: No
+   Opening Hours: Not specified
+
+235. Baita Natalia
+   24/7: No
+   Opening Hours: Not specified
+
+236. Rifugio Malga Ritorto
+   24/7: No
+   Opening Hours:
+      Monday: 09:00 - 17:00
+      Tuesday: 09:00 - 17:00
+      Wednesday: 09:00 - 22:00
+      Thursday: 09:00 - 17:00
+      Friday: 09:00 - 17:00
+      Saturday: 09:00 - 22:00
+      Sunday: 09:00 - 22:00
+
+237. Rifugio Cornisello
+   24/7: No
+   Opening Hours:
+      Monday: 07:30 - 19:30
+      Tuesday: 07:30 - 19:30
+      Wednesday: 07:30 - 19:30
+      Thursday: 07:30 - 19:30
+      Friday: 07:30 - 19:30
+      Saturday: 07:30 - 19:30
+      Sunday: 07:30 - 19:30
+
+238. Rifugio Graffer
+   24/7: No
+   Opening Hours: Not specified
+
+239. Alpine Days Mountain Home
+   24/7: No
+   Opening Hours: Not specified
+
+240. Rifugio Casinei
+   24/7: No
+   Opening Hours: Not specified
+
+241. Rifugio Alimonta
+   24/7: No
+   Opening Hours: Not specified
+
+242. Rifugio Orso Bruno
+   24/7: No
+   Opening Hours: Not specified
+
+243. Ristorante Malga Montagnoli
+   24/7: No
+   Opening Hours:
+      Monday: 09:00 - 16:20
+      Tuesday: 09:00 - 16:20
+      Wednesday: 09:00 - 16:20
+      Thursday: 09:00 - 16:20
+      Friday: 09:00 - 16:20
+      Saturday: 09:00 - 16:20
+      Sunday: 09:00 - 16:20
+
+244. Malga Mondifrà
+   24/7: Yes
+   Opening Hours:
+      Monday: 00:00 - N/A
+      Tuesday: Not specified
+      Wednesday: Not specified
+      Thursday: Not specified
+      Friday: Not specified
+      Saturday: Not specified
+      Sunday: Not specified
+
+245. Stile Alpino
+   24/7: No
+   Opening Hours:
+      Monday: 09:30 - 19:30
+      Tuesday: 09:30 - 19:30
+      Wednesday: 09:30 - 19:30
+      Thursday: 09:30 - 19:30
+      Friday: 09:30 - 19:30
+      Saturday: 09:30 - 19:30
+      Sunday: 09:30 - 19:30
+
+246. Rifugio San Giuliano
+   24/7: No
+   Opening Hours: Not specified
+
+247. Guide Alpine Madonna di Campiglio Scuola di alpinismo e sci alpinismo
+   24/7: No
+   Opening Hours:
+      Monday: 16:00 - 19:00
+      Tuesday: 16:00 - 19:00
+      Wednesday: 16:00 - 19:00
+      Thursday: 16:00 - 19:00
+      Friday: 16:00 - 19:00
+      Saturday: 16:00 - 19:00
+      Sunday: 16:00 - 19:00
+
+248. Baito Serodoli
+   24/7: No
+   Opening Hours: Not specified
+
+249. Bivacco Bonvecchio
+   24/7: No
+   Opening Hours: Not specified
+
+250. Rifugio Malghette
+   24/7: No
+   Opening Hours: Not specified
+
+251. Madonna di Campiglio
+   24/7: No
+   Opening Hours: Not specified
+
+252. Condominio La Zangola
+   24/7: No
+   Opening Hours: Not specified
+
+253. AlpHotel Taller
+   24/7: No
+   Opening Hours:
+      Monday: 06:30 - 00:00
+      Tuesday: 06:30 - 00:00
+      Wednesday: 06:30 - 00:00
+      Thursday: 06:30 - 00:00
+      Friday: 06:30 - 00:00
+      Saturday: 06:30 - 00:00
+      Sunday: 06:30 - 00:00
+
+254. Palestra Campiglio
+   24/7: No
+   Opening Hours:
+      Monday: 09:00 - 19:00
+      Tuesday: 08:00 - 19:00
+      Wednesday: 08:00 - 19:00
+      Thursday: 08:00 - 19:00
+      Friday: 09:00 - 19:00
+      Saturday: 09:00 - 19:00
+      Sunday: 09:00 - 19:00
+
+255. Palestra all'aperto (Parco Calisthenics)
+   24/7: Yes
+   Opening Hours:
+      Monday: 00:00 - N/A
+      Tuesday: Not specified
+      Wednesday: Not specified
+      Thursday: Not specified
+      Friday: Not specified
+      Saturday: Not specified
+      Sunday: Not specified
+
+256. Palestra Voltolini Giordano
+   24/7: No
+   Opening Hours: Not specified
+
+257. Palasport Carisolo
+   24/7: No
+   Opening Hours:
+      Monday: Not specified
+      Tuesday: 10:00 - 20:30
+      Wednesday: 10:00 - 20:30
+      Thursday: 10:00 - 20:30
+      Friday: 10:00 - 20:30
+      Saturday: 10:00 - 20:30
+      Sunday: 10:00 - 20:30
+
+258. Centro salto di Pellizzano
+   24/7: No
+   Opening Hours: Not specified
+
+259. Madonna di Campiglio
+   24/7: No
+   Opening Hours: Not specified
+
+260. Pinzolo
+   24/7: No
+   Opening Hours: Not specified
+
+261. Sporting Club
+   24/7: No
+   Opening Hours: Not specified
+
+262. 3Tre Madonna di Campiglio Canalone Miramonti
+   24/7: No
+   Opening Hours: Not specified
+
+263. Sport Elite School
+   24/7: No
+   Opening Hours:
+      Monday: 09:00 - 12:30
+      Tuesday: 09:00 - 12:30
+      Wednesday: 09:00 - 12:30
+      Thursday: 09:00 - 12:30
+      Friday: 09:00 - 12:30
+      Saturday: 09:00 - 12:30
+      Sunday: 09:00 - 12:30
+
+264. Campiglio Ski Team
+   24/7: No
+   Opening Hours: Not specified
+
+265. Serafini & Sport
+   24/7: No
+   Opening Hours:
+      Monday: 08:30 - 12:30
+      Tuesday: 08:30 - 12:30
+      Wednesday: 08:30 - 12:30
+      Thursday: 08:30 - 12:30
+      Friday: 08:30 - 12:30
+      Saturday: 08:30 - 12:30
+      Sunday: 08:30 - 12:30
+
+266. Tennis Club Madonna Di Campiglio
+   24/7: No
+   Opening Hours:
+      Monday: 09:00 - 19:00
+      Tuesday: 09:00 - 19:00
+      Wednesday: 09:00 - 19:00
+      Thursday: 09:00 - 19:00
+      Friday: 09:00 - 19:00
+      Saturday: 09:00 - 19:00
+      Sunday: 09:00 - 19:00
+
+267. Campiglio Ice Park - pattinaggio Madonna di Campiglio
+   24/7: No
+   Opening Hours:
+      Monday: 10:00 - 20:00
+      Tuesday: 10:00 - 20:00
+      Wednesday: 10:00 - 20:00
+      Thursday: 10:00 - 20:00
+      Friday: 10:00 - 20:00
+      Saturday: 10:00 - 20:00
+      Sunday: 10:00 - 20:00
+
+268. Sport 3 Tre
+   24/7: No
+   Opening Hours:
+      Monday: 08:30 - 12:30
+      Tuesday: 08:30 - 12:30
+      Wednesday: 08:30 - 12:30
+      Thursday: 08:30 - 12:30
+      Friday: 08:30 - 12:30
+      Saturday: 08:30 - 12:30
+      Sunday: 08:30 - 12:30
+
+269. Campiglio Sport Di Casagrande Francesca
+   24/7: No
+   Opening Hours:
+      Monday: 08:10 - 12:30
+      Tuesday: 08:15 - 12:30
+      Wednesday: 08:15 - 12:30
+      Thursday: 08:15 - 12:30
+      Friday: 08:15 - 12:30
+      Saturday: 08:15 - 12:30
+      Sunday: 08:10 - 12:30
+
+270. Residence Sport Campiglio
+   24/7: No
+   Opening Hours: Not specified
+
+271. Centro Fondo Campo Carlo Magno
+   24/7: No
+   Opening Hours:
+      Monday: 09:00 - 17:00
+      Tuesday: 09:00 - 17:00
+      Wednesday: 09:00 - 17:00
+      Thursday: 09:00 - 17:00
+      Friday: 09:00 - 17:00
+      Saturday: 09:00 - 17:00
+      Sunday: 09:00 - 17:00
+
+272. Italian Ski Academy
+   24/7: No
+   Opening Hours:
+      Monday: 08:30 - 20:30
+      Tuesday: 08:30 - 20:30
+      Wednesday: 08:30 - 20:30
+      Thursday: 08:30 - 20:30
+      Friday: 08:30 - 20:30
+      Saturday: 08:30 - 20:30
+      Sunday: 08:30 - 20:30
+
+273. SCMDC TEAM AD
+   24/7: No
+   Opening Hours: Not specified
+
+274. Scuola italiana snowboard The Garden
+   24/7: No
+   Opening Hours:
+      Monday: 09:00 - 13:00
+      Tuesday: 09:00 - 13:00
+      Wednesday: 09:00 - 13:00
+      Thursday: 09:00 - 13:00
+      Friday: 09:00 - 13:00
+      Saturday: 09:00 - 13:00
+      Sunday: 09:00 - 13:00
+
+275. Scuola Italiana Sci & Snowboard K2 Madonna di Campiglio
+   24/7: No
+   Opening Hours:
+      Monday: 08:00 - 20:00
+      Tuesday: 08:00 - 20:00
+      Wednesday: 08:00 - 20:00
+      Thursday: 08:00 - 20:00
+      Friday: 08:00 - 20:00
+      Saturday: 08:00 - 20:00
+      Sunday: 08:00 - 20:00
+
+276. AGONISTICA CAMPIGLIO VAL RENDENA SCI CLUB
+   24/7: Yes
+   Opening Hours:
+      Monday: 00:00 - N/A
+      Tuesday: Not specified
+      Wednesday: Not specified
+      Thursday: Not specified
+      Friday: Not specified
+      Saturday: Not specified
+      Sunday: Not specified
+
+277. Scuola Italiana Sci 5 Laghi
+   24/7: No
+   Opening Hours:
+      Monday: 08:00 - 19:00
+      Tuesday: 08:00 - 19:00
+      Wednesday: 08:00 - 19:00
+      Thursday: 08:00 - 19:00
+      Friday: 08:00 - 19:00
+      Saturday: 08:00 - 19:00
+      Sunday: 08:00 - 19:00
+
+278. Italian Ski School ADAMELLO Brenta - Madonna di Campiglio
+   24/7: No
+   Opening Hours:
+      Monday: 08:00 - 22:00
+      Tuesday: 08:00 - 22:00
+      Wednesday: 08:00 - 22:00
+      Thursday: 08:00 - 22:00
+      Friday: 08:00 - 22:00
+      Saturday: 08:00 - 22:00
+      Sunday: 08:00 - 22:00
+
+279. CAMPIGLIO GOLF ACADEMY
+   24/7: No
+   Opening Hours:
+      Monday: 09:00 - 23:00
+      Tuesday: 09:00 - 23:00
+      Wednesday: 09:00 - 23:00
+      Thursday: 09:00 - 23:00
+      Friday: 09:00 - 23:00
+      Saturday: 09:00 - 23:00
+      Sunday: 09:00 - 23:00
+
+280. Laghetto di Campiglio
+   24/7: Yes
+   Opening Hours:
+      Monday: 00:00 - N/A
+      Tuesday: Not specified
+      Wednesday: Not specified
+      Thursday: Not specified
+      Friday: Not specified
+      Saturday: Not specified
+      Sunday: Not specified
+
+281. Ursus Snowpark - Madonna di Campiglio
+   24/7: No
+   Opening Hours: Not specified
+
+282. Olimpionico Sport 2
+   24/7: No
+   Opening Hours:
+      Monday: 08:00 - 12:00
+      Tuesday: 08:00 - 12:00
+      Wednesday: 08:00 - 12:00
+      Thursday: 08:00 - 12:00
+      Friday: 08:00 - 12:00
+      Saturday: 08:00 - 12:00
+      Sunday: 08:00 - 12:00
+
+283. Audi Ski Stadium
+   24/7: No
+   Opening Hours: Not specified
+
+284. Campiglio Ski World Cup
+   24/7: No
+   Opening Hours: Not specified
+
+285. Golf Club Campo Carlo Magno
+   24/7: No
+   Opening Hours: Not specified
+
